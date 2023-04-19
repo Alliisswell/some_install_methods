@@ -1,4 +1,4 @@
-标注保存格式只有一种：json
+标注保存格式只有一种：.json
 1. install:
 pip install labelme
 2. use:
