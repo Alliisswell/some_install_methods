@@ -1,4 +1,4 @@
-标注保存格式有三种：PascalVOC, YOLO, CreateML
+标注保存格式有三种：PascalVOC(.xml), YOLO(.txt), CreateML(.json)
 1. install:
 pip install labelImg
 注意labelImg中I是大写
