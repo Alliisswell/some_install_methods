@@ -1,4 +1,5 @@
 1. install:
 pip install labelImg
 2. use:
+cd ../IMAGE_PATH
 labelImg [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
