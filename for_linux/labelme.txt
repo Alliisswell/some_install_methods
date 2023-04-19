@@ -1,0 +1,5 @@
+1. install:
+pip install labelme
+2. use:
+cd ../IMAGE_PATH
+labelme [IMAGE_PATH] --labels [PRE-DEFINED CLASS FILE]
