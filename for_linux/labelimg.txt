@@ -1,5 +1,7 @@
+标注保存格式有
 1. install:
 pip install labelImg
+注意labelImg中I是大写
 2. use:
 cd ../IMAGE_PATH
 labelImg [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
