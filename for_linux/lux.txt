@@ -1,4 +1,10 @@
-download the binary file from Releases page
-解压缩之后将里边的二进制可执行文件剪切到视频下载文件夹
-下载视频时cd进可执行文件目录下使用命令：
-  ./lux video_url
+1. download the binary file from Releases page
+2. 解压缩之后将里边的二进制可执行文件剪切到/usr/local/bin下
+3. gedit ~/.bashrc
+4. 添加如下：
+#### 为/usr/local/bin下所有的二进制可执行文件添加环境变量
+export PATH=$PATH:/usr/local/bin 
+5. source ~/.bashrc
+6. 使用：
+cd save_video_path/
+lux video_url
