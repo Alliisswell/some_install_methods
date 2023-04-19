@@ -1,1 +1,4 @@
+方法一：
 sudo apt install ffmpeg
+方法二：
+下载源码并且按照源码中的安装文档进行编译安装
