@@ -1,0 +1,4 @@
+download the binary file from Releases page
+解压缩之后将里边的二进制可执行文件剪切到视频下载文件夹
+下载视频时cd进可执行文件目录下使用命令：
+  ./lux video_url
